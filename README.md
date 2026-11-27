@@ -2,7 +2,7 @@
 
 Plataforma web para **artistas independentes** publicarem a sua música e receberem feedback (gostos e comentários) de ouvintes reais.
 
-**🔗 Site: https://mylifeshooter23.github.io/sonicly/**
+**🔗 Site: 
 
 Projeto de Aptidão Profissional (PAP) — Curso Profissional de Técnico de Gestão e Programação de Sistemas Informáticos.
 
